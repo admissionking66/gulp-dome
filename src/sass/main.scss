@@ -1,0 +1,20 @@
+$bgColor:#f90;
+#box{
+	background:$bgColor;
+	width:200px;
+	overflow:hidden;
+	text-align:center;
+	color:#fff;
+	h2{
+		color:#666;
+	}
+	h6{
+		color:red;
+	}
+	p{
+		width:200px;
+		height:auto;
+		box-sizing:border-box;
+		padding:5px;
+	}
+}
